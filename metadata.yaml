@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '4226'
     url: http://www.gutenberg.org/2009/agents/4226
     wikipedia: https://en.wikipedia.org/wiki/Benjamin_Griffith_Brawley
+covers:
+- cover_type: archival
+  image_path: 67093-h/images/cover.jpg
 creator:
   author:
     agent_name: Williams, Charles H. (Charles Halston)
@@ -17,6 +20,8 @@ creator:
     gutenberg_agent_id: '53940'
     url: http://www.gutenberg.org/2009/agents/53940
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67093#Sidelights-on-Negro-Soldiers
 gutenberg_issued: '2022-01-03'
 identifiers:
   gutenberg: '67093'
